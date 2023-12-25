@@ -14,5 +14,6 @@ namespace Common
         public  string Password { get; set; }
         public string Test { get; set;}
         public string Test2 {get; set;}
+        public string Test3 {get; set;}
     }
 }
