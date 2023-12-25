@@ -12,7 +12,7 @@ namespace Common
         public  string Prezime { get; set; }
         public  string Email { get; set; }
         public  string Password { get; set; }
-        public string Test { get; set; }
+        public string Test { get; set;}
         public string Test2 {get; set;}
     }
 }
